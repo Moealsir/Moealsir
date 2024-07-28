@@ -10,7 +10,7 @@
 <p align="center">🌱 I’m currently mastering <strong>African Leadership X (ALX)</strong></p>
 <p align="center">👯 Looking to collaborate on <strong>Automation Applications</strong></p>
 <p align="center">💬 Ask me about <strong>React, APIs, JavaScript, Python</strong></p>
-<p align="center">📫 Reach me at: <a href="mailto:mohamedwdalsir@gmail.com">mohamedwdalsir@gmail.com</a></p>
+<p align="center">📫 Reach me at: <a href="mailto:contact@moealsir.tech">contact@moealsir.tech</a></p>
 
 ---
 
